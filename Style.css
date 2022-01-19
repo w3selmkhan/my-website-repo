@@ -1,0 +1,33 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    font-size: x-large;
+    margin: 0;
+}
+.orange-color{color: orange;
+}
+section{
+    display: flex;
+    padding: 0% 0% 0% 5%;
+}
+.AA{
+    width: 50%;
+}
+.AA img{
+    width: 60%;
+   padding-left: 25%;
+   padding-top: 5%;
+}
+.here-bottun{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+   font-weight: 700;
+   color: white;
+   border-radius: 5px;
+}
+.background-img{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.h1{font-size: 300%;}
